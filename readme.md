@@ -11,5 +11,7 @@ Additionally, since PMO247 is a plugin in the GP247 ecosystem, it inherits all o
 Demo available at:
 - Administration system: https://pmo.gp247.net/gp247_admin
 - Partner system:https://pmo.gp247.net/partner_admin
+  
+**More infomation:** https://gp247.net/en/pmo-overview.html
 
 <img src="https://static.gp247.net/page/gp247-system-pmo.drawio.svg">
