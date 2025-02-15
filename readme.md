@@ -1,3 +1,5 @@
+## Read more <a href="https://gp247.net/en/pmo/pmo-overview.html">HERE</a>
+
 PMO247 is a comprehensive project management solution integrated into the system. The plugin provides features for managing projects, tasks, members, and tracking work time. Notably, with its flexible personnel transfer feature between partners, PMO is an optimal solution for IT labo companies requiring efficient staff coordination across multiple projects and partners.
 Furthermore, as PMO247 is a plugin within the GP247 ecosystem, it inherits all other extended functionalities, helping transform your website into a large-scale system with multiple features.
 
