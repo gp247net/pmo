@@ -88,7 +88,7 @@ Screen PMO admin:
 
 <img src="https://static.gp247.net/page/pmo-screen-system.jpg">
 <img src="https://static.gp247.net/page/pmo-screen-gantt.jpg">
-<img src="https://static.gp247.net/page/pmo-screen-kanban.jpg">
+<img src="https://static.gp247.net/page/pmo-screen-kanban.jpg?v=1">
 Screen PMO partner:
 
 <img src="https://static.gp247.net/page/pmo-screen-partner.jpg">
