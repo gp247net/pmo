@@ -8,6 +8,21 @@ PMO247 is a comprehensive project management solution integrated into the GP247 
 
 Additionally, since PMO247 is a plugin within the GP247 ecosystem, it inherits all other extended functionalities, helping to transform your website into a large system with many features, such as: e-commerce, news website...
 
+## License
+
+- **PMO Basic:** https://gp247.net/en/product/pmo247.html
+- **Module Partner:** https://gp247.net/en/product/pmo-partner.html
+
+## Demo
+
+**Demo available at:**
+
+- **Admin System:** https://pmo.gp247.net/gp247_admin
+  - Login: admin/admin
+
+- **Partner System:** https://pmo.gp247.net/partner_admin
+  - Login: partner@local/partner
+
 ## Version and Features
 
 | **Version** | **Features** |
@@ -86,20 +101,6 @@ Additionally, since PMO247 is a plugin within the GP247 ecosystem, it inherits a
 4. Track member activities in partner
 5. Can transfer member to another partner when needed
 
-## License
-
-- **PMO Basic:** https://gp247.net/en/product/pmo247.html
-- **Module Partner:** https://gp247.net/en/product/pmo-partner.html
-
-## Demo
-
-**Demo available at:**
-
-- **Admin System:** https://pmo.gp247.net/gp247_admin
-  - Login: admin/admin
-
-- **Partner System:** https://pmo.gp247.net/partner_admin
-  - Login: partner@local/partner
 
 --- 
 
