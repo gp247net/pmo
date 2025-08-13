@@ -1,94 +1,124 @@
 ## Read more <a href="https://gp247.net/en/pmo/pmo-overview.html">HERE</a>
 
-PMO247 is a comprehensive project management solution integrated into the system. The plugin provides features for managing projects, tasks, members, and tracking work time. Notably, with its flexible personnel transfer feature between partners, PMO is an optimal solution for IT labo companies requiring efficient staff coordination across multiple projects and partners.
-Furthermore, as PMO247 is a plugin within the GP247 ecosystem, it inherits all other extended functionalities, helping transform your website into a large-scale system with multiple features.
+# PMO247 - Comprehensive Project Management System
 
-Key Features
+## Overview
 
-1. Project Management
+PMO247 is a comprehensive project management solution integrated into the GP247 system. The plugin provides project management, task management, member management, and work time tracking features. Particularly, with flexible personnel rotation features between partners, PMO is the optimal solution for IT lab companies that need to coordinate personnel across multiple projects and different partners.
+
+Additionally, since PMO247 is a plugin within the GP247 ecosystem, it inherits all other extended functionalities, helping to transform your website into a large system with many features, such as: e-commerce, news website...
+
+## Version and Features
+
+| **Version** | **Features** |
+|---|---|
+| **PMO Basic** |**Core Features:**<br>- Provides full PMO system features<br>- Supports project operations with Agile, Scrum<br>**Extensibility:**<br>- Free updates for features and bug fixes according to GP247 community standards<br>- Easy integration with GP247 libraries, convert to CMS content, e-commerce website... |
+| **Module Partner** | **Additional Partner features:**<br>- Dedicated partner management page<br>- Independent partner employee management<br>- Management and transfer of members between partners<br>- Meets the business model requirements of IT labs<br>- No limits on number of partners, members, projects... |
+
+## Main Features
+
+### 1. Project Management
 - Create and manage multiple projects
-- Role-based permissions for project members (Admin, Leader, Member)
+- Assign permissions to project members (Admin, Leader, Member)
 - Track project status and progress
-- Manage attachments
+- Manage attached documents
 - Gantt and Burndown charts for progress tracking
 
-2. Task Management
+### 2. Task Management
 - Create and assign tasks to members
 - Track task status
-- Checklists and comments on tasks
-- File attachments
-- Time logging for each task
+- Checklist and comments on tasks
+- Attach documents
+- Logtime for each task
 
-3. Sprint and Milestone Management
+### 3. Sprint and Milestone Management
 - Create and manage Sprints
 - Create and manage Milestones
-- Assign tasks to Sprints/Milestones
+- Assign tasks to Sprint/Milestone
 - Track Sprint/Milestone progress
 
-4. Member Management
+### 4. Member Management
 - Manage member information
-- Role-based permissions
+- Assign permissions to members
 - Track member activities
 - Work time statistics
 
-5. Reports & Analysis
+### 5. Reports & Analytics
 - Work time reports
 - Project performance analysis
 - Statistical charts
-- Export to Excel
+- Excel report export
 
-6. Kanban Board
-- Display tasks in board view
-- Drag and drop status updates
+### 6. Kanban Board
+- Display tasks in board format
+- Drag and drop to update status
 - Filter and search tasks
 
-7. Partner & Personnel Transfer Management
-- Manage multiple partners (companies/organizations) in the system
+### 7. Partner Management & Personnel Rotation
+- Manage multiple partners (companies/partners) in the system
 - Separate permissions for each partner
-- Personnel transfer between partners
-- Transfer history tracking
+- Rotate personnel between partners
+- Track rotation history
 - Work time reports by partner
 
-Personnel Transfer Features:
-- **Member Mapping**: Allows one member to work for multiple partners
-- **Login As Partner**: Admin can login as partner member
-- **Partner-based Permissions**: Members can have different roles across partners
-- **Time Tracking**: Separate work time tracking for each partner
-- **Partner Reports**: Individual statistics and reports for each partner
+## Personnel Rotation Features
 
-Personnel Transfer Process:
+### Mapping Member
+- Allows a member to work for multiple different partners
+
+### Login As Partner
+- Admin can log in as a partner member
+
+### Partner-based Permissions
+- Each member can have different roles at different partners
+
+### Time Tracking
+- Separate work time tracking for each partner
+
+### Partner Reports
+- Statistics and reports specific to each partner
+
+## Personnel Rotation Process
+
 1. Admin creates mapping account for member
-2. Assigns member to partner
-3. Grants appropriate permissions for member in partner
-4. Monitors member activities in partner
-5. Can transfer member to different partner when needed
+2. Assign member to partner
+3. Grant appropriate permissions to member in partner
+4. Track member activities in partner
+5. Can transfer member to another partner when needed
 
 ## License
 
-The PMO247 is paid plugin, released under two license types:
+- **PMO Basic:** https://gp247.net/en/product/pmo247.html
+- **Module Partner:** https://gp247.net/en/product/pmo-partner.html
 
-1. Source Code License
-- One-time payment for source code
-- Includes rights to use and deploy the plugin
-- Required base license
-2. Extended License (optional)
-- Annual maintenance fee
-- Optional additional services including:
-  + Regular bug fixes
-  + Latest feature updates
-  + Technical support
+## Demo
 
-Demo available at:
-- Administration system: https://pmo.gp247.net/gp247_admin
-Login: admin/admin
-- Partner system: https://pmo.gp247.net/partner_admin
-Login: partner@local/partner
+**Demo available at:**
 
-Screen PMO admin:
+- **Admin System:** https://pmo.gp247.net/gp247_admin
+  - Login: admin/admin
 
-<img src="https://static.gp247.net/page/pmo-screen-system.jpg">
-<img src="https://static.gp247.net/page/pmo-screen-gantt.jpg">
-<img src="https://static.gp247.net/page/pmo-screen-kanban.jpg?v=1">
-Screen PMO partner:
+- **Partner System:** https://pmo.gp247.net/partner_admin
+  - Login: partner@local/partner
 
-<img src="https://static.gp247.net/page/pmo-screen-partner.jpg">
+--- 
+
+## Screen
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-1.jpg">
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-2.jpg">
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-3.jpg">
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-4.jpg">
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-5.jpg">
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-6.jpg">
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-7.jpg">
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-8.jpg">
+
+<img src="https://static.gp247.net/file/pmo/sc-pmo-9.jpg">
