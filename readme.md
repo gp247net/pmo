@@ -1,4 +1,4 @@
-## Read more <a href="https://gp247.net/en/pmo/pmo-overview.html">HERE</a>
+## Read more <a href="https://gp247.net/en/docs/pmo/pmo-overview.html">HERE</a>
 
 # PMO247 - Comprehensive Project Management System
 
